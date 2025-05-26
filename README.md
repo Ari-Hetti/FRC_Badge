@@ -4,7 +4,7 @@ A small keychain/badge thats lights up in a shape of a star when the button is p
 I put a bunch of things I feel like are important to me as Silkscreen art
 
 # Contact
-@Ari-H. U08QRTADZTJ
+@Ari H. U08QRTADZTJ
 
 # Schematic
 ![Image](https://github.com/user-attachments/assets/653681b3-5354-42a8-811a-f2d2fd6734ef)
