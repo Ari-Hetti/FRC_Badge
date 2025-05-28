@@ -28,4 +28,5 @@ I put a bunch of things I feel like are important to me as Silkscreen art
 # Simulation (Falstad)
 I read somewhere that I should be using a resistor for each LED but I when I tested the circut it looked fine
 ![Image](https://github.com/user-attachments/assets/bb486558-ec9b-43a3-9d8b-943171481b51)
+## The Falstad simulation file
 [HackclubSolderSimulation.txt](https://github.com/user-attachments/files/20475513/HackclubSolderSimulation.txt)
