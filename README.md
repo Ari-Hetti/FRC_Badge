@@ -7,24 +7,25 @@ I put a bunch of things I feel like are important to me as Silkscreen art
 @Ari H. U08QRTADZTJ
 
 # Schematic
-![Image](https://github.com/user-attachments/assets/653681b3-5354-42a8-811a-f2d2fd6734ef)
+![Image](https://github.com/user-attachments/assets/a7091ef1-7093-46d5-9c8e-2e7889d90816)
 
 # PCB
-![Image](https://github.com/user-attachments/assets/5270a61a-409d-4d89-b5a1-41dce12488d7)
+![Image](https://github.com/user-attachments/assets/7c9f2bfb-a1cd-4b4d-a5a4-ae104a1be4cd)
 
 # 3D View
 ## Front :
-![Image](https://github.com/user-attachments/assets/39f982fb-a119-407c-87d9-4cfb8fa1b924)
+![Image](https://github.com/user-attachments/assets/07e72c1c-3099-40c5-a441-c57f7d1699c9)
 
 ## Back :
-![Image](https://github.com/user-attachments/assets/4fa4cb87-038a-429a-bef4-54552270ef5c)
+![Image](https://github.com/user-attachments/assets/f8721710-c123-4511-9f24-3e63c07ad363)
 
 # BOM
 - 10 5mm LEDs (I have more LEDs of my own)
 - 1 Push Button
-- 1 10 Ohm Resistor (I also have this)
+- 10 220 Ohm Resistor (I also have this)
 - 1 Battery Holder
 
 # Simulation (Falstad)
 I read somewhere that I should be using a resistor for each LED but I when I tested the circut it looked fine
-![Image](https://github.com/user-attachments/assets/3a344747-1144-4010-ad66-617a03461566)
+![Image](https://github.com/user-attachments/assets/bb486558-ec9b-43a3-9d8b-943171481b51)
+[HackclubSolderSimulation.txt](https://github.com/user-attachments/files/20475513/HackclubSolderSimulation.txt)
