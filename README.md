@@ -10,14 +10,14 @@ I put a bunch of things I feel like are important to me as Silkscreen art
 ![Image](https://github.com/user-attachments/assets/a7091ef1-7093-46d5-9c8e-2e7889d90816)
 
 # PCB
-![Image](https://github.com/user-attachments/assets/7c9f2bfb-a1cd-4b4d-a5a4-ae104a1be4cd)
+![Image](https://github.com/user-attachments/assets/f41d7471-06cb-446e-a71a-1d6288030f6b)
 
 # 3D View
 ## Front :
 ![Image](https://github.com/user-attachments/assets/07e72c1c-3099-40c5-a441-c57f7d1699c9)
 
 ## Back :
-![Image](https://github.com/user-attachments/assets/f8721710-c123-4511-9f24-3e63c07ad363)
+![Image](https://github.com/user-attachments/assets/56b4ff72-0e2a-4f31-b38b-32284787f849)
 
 # BOM
 - 10 5mm LEDs (I have more LEDs of my own)
