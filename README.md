@@ -5,6 +5,7 @@ I put a bunch of things I feel like are important to me as Silkscreen art to mak
 
 # Contact
 @Ari H. U08QRTADZTJ
+
 [arithahetti9000@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDqPBCrvqhTDfkswnhwVhZlxhTKqsdnSXtlkggmFwcBPdvNtfQnKbPhsrLDsmzJmZsMwLHQ])
 
 # Schematic
