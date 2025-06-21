@@ -28,7 +28,7 @@ I put a bunch of things I feel like are important to me as Silkscreen art to mak
 - 1 2032 Battery Holder
 
 # Simulation (Falstad)
-Simulation for circut
+Simulation for circuit
 ![Image](https://github.com/user-attachments/assets/b3dd8678-353f-4592-ac6a-d12c236f80a7)
 ## The Falstad simulation file
 [HackclubSolderSimulationFinal.txt](https://github.com/user-attachments/files/20843875/HackclubSolderSimulationFinal.txt)
